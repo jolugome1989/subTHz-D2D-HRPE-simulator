@@ -12,4 +12,12 @@ Andreas F. Molisch (University of Southern California)
 
 Please cite the paper:
 
-
+@misc{cheng2026stochastichighresolutionparameterbasedchannel,
+      title={Stochastic High-Resolution Parameter-Based Channel Modeling for Sub-Terahertz Outdoor Device-to-Device Propagation at 145 GHz}, 
+      author={Zihang Cheng and Naveed A. Abbasi and Jorge Gomez-Ponce and Jianzhong and Zhang and Andreas F. Molisch},
+      year={2026},
+      eprint={2611.08850},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2611.08850}, 
+}
